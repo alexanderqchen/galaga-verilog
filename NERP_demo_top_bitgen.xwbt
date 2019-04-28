@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=/home/ise/xilinx/finalproject v2.0/NERP_demo_top.ncd
+OUTFILE=/home/ise/xilinx/finalproject v2.0/NERP_demo_top.bit
+FAMILY=Spartan6
+PART=xc6slx16-3csg324
+WORKINGDIR=/home/ise/xilinx/finalproject v2.0
+LICENSE=ISE
+USER_INFO=8416_11442_1478797146_620
